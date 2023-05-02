@@ -1,0 +1,15 @@
+.page-title {
+  border: 1px solid rgb(242, 242, 242);
+  font-size: 20px;
+  padding: 15px;
+}
+
+.form-wrapper {
+  display: flex;
+  justify-content: center;
+
+  .login-form {
+    padding: 20px;
+    border: 1px solid rgb(242, 242, 242);
+  }
+}
